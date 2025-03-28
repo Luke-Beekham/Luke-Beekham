@@ -8,7 +8,7 @@
 
 <img align="left" width ="47%" alt="Luke's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Luke-Beekham&show_icons=true" />
 
-<img align="right" width="49%" alt="Luke's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-Beekham&layout=compact" />
+<img align="right" width="45%" alt="Luke's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luke-Beekham&layout=compact" />
 
 <!---
 Luke-Beekham/Luke-Beekham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
